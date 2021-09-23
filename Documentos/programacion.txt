@@ -1,1 +1,2 @@
 ruta pert
+se usa programacion cpm ruta critica
