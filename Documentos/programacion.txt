@@ -3,3 +3,4 @@ se usa programacion cpm ruta critica
 pero es posible usar otro metodo ok
 va a la web
 de la local a la web 2
+cambio en la web va al local
