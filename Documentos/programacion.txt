@@ -1,2 +1,3 @@
 ruta pert
 se usa programacion cpm ruta critica
+pero es posible usar otro metodo ok
